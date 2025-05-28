@@ -69,6 +69,48 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 </p>
 
 ---
+## 📜 Certifications in Analytics, Process Improvement & Business Strategy
+
+### 🟩 Lean Six Sigma
+**Lean Six Sigma White Belt Certification**  
+*Issued by:* Lean Six Sigma Certification Institute  
+*Date:* May 28, 2025  
+[🔗 View Certificate](https://drive.google.com/file/d/1b3GifdEjNFVevmyrAOawYzjU_c5Z9jti/view?usp=drive_link)
+
+---
+
+### 📊 Analytics & Business Intelligence
+**W. P. Carey Certificate in Business Analytics (BA)**  
+*Issued by:* W. P. Carey School of Business, Arizona State University  
+*Date:* July 2, 2024  
+[🔗 View Certificate](https://drive.google.com/file/d/1LUqvvUo25GpI7mBwykZLiRitAxmvQ5gJ/view?usp=drive_link)
+
+---
+
+### 🧠 Data-Driven Decision-Making & Visualization
+**Project Management Fundamentals for Business Operations**  
+*Issued by:* Siemens via Forage | *Date:* February 26, 2025  
+[🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YtWaumzWHmKiqP63y/zSefEeEKvojiQqiaH_YtWaumzWHmKiqP63y_4wedH2reA8dXmXFjS_1740599261710_completion_certificate.pdf)
+
+**Data Visualization: Empowering Business with Effective Insights**  
+*Issued by:* Tata via Forage | *Date:* March 2, 2025  
+[🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_4wedH2reA8dXmXFjS_1740948703016_completion_certificate.pdf)
+
+**Data Analytics (Forensic & Business Intelligence)**  
+*Issued by:* Deloitte via Forage | *Date:* February 26, 2025  
+[🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_4wedH2reA8dXmXFjS_1740540539939_completion_certificate.pdf)
+
+**Power BI for Business Analysis & Customer Insights**  
+*Issued by:* PwC via Forage | *Date:* March 1, 2025  
+[🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_4wedH2reA8dXmXFjS_1740792644376_completion_certificate.pdf)
+
+---
+
+### 🔗 LinkedIn Certifications  
+[📎 View All on LinkedIn](https://www.linkedin.com/in/yashwanth-guruswamy/details/certifications/)
+
+
+---
 
 ## 🔗 Let’s Connect
 
