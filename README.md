@@ -10,17 +10,17 @@
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
-- 📊 Analyze business & marketing data to uncover trends and optimize decisions
-- 📈 Build dashboards & KPI reports using Python, Tableau, and SQL
-- ⚙️ Automate reporting workflows and ops processes
-- 🧠 Develop predictive models for churn, risk, and performance
-- 🧰 Leverage Lean Six Sigma for operational efficiency
+- Analyze business & marketing data to uncover trends and optimize decisions
+- Build dashboards & KPI reports using Python, Tableau, and SQL
+- Automate reporting workflows and ops processes
+- Develop predictive models for churn, risk, and performance
+- Leverage Lean Six Sigma for operational efficiency
 
 ---
 
-## 🔧 Skills
+## Skills
 
 **Languages & Tools:**  
 `Python`, `SQL`, `Tableau`, `Power BI`, `Excel`, `scikit-learn`, `Pandas`, `Power Query`, `AWS`, `Git`, `Minitab`, `IBM SPSS`
@@ -38,14 +38,17 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 | [Sales Quota Tracker](https://github.com/yashwanthguruswamy/sales-quota-performance-dashboard) | Sales Analytics | Quota, commission, and rep tracking dashboard |
 | [Yelp Market Analysis](https://github.com/yashwanthguruswamy/Yelp-Market-Analysis-Identifying-Prime-Restaurant-Locations-Cuisines) | NLP / Strategy | Sentiment + geo expansion recommendations |
 | [SaaS Revenue & Churn Model](https://github.com/yashwanthguruswamy/SaaS-Revenue-Churn-Intelligence) | Product / Subscription | Churn modeling + subscription trends |
+| [Financial Risk & KPI Analysis](https://github.com/yashwanthguruswamy/financial-risk-kpi-analysis) | Finance / Risk | Revenue breakdowns, risk ratios, and KPI diagnostics |
 | [Project Milestone Health](https://github.com/yashwanthguruswamy/project-milestone-health-dashboard) | TPM / Project Mgmt | Delay risks, milestone tracking |
 | [Marketing ROI Tracker](https://github.com/yashwanthguruswamy/marketing-campaign-roi-tracker) | Marketing Analytics | ROAS, CTR, CPA conversion analysis |
 | [Support KPI Dashboard](https://github.com/yashwanthguruswamy/customer-support-kpi-dashboard) | Ops + SQL | SLA compliance, backlog, resolution KPIs |
 | [ASU RoomSense](https://github.com/yashwanthguruswamy/Asu-roomsense) | CV / IoT | Real-time occupancy tracking using YOLOv5 |
+| [AI Prompt Engineering & ChatGPT Use Case Demo](https://github.com/yashwanthguruswamy/AI-Prompt-Engineering-ChatGPT-Use-Case-Demo) | AI / PromptOps | Business prompt libraries & automation workflows |
+| [Grand Canyon Council Capstone](https://github.com/yashwanthguruswamy/grand-canyon-scout-analytics) | Capstone / Nonprofit | Predictive insights for Scout enrollment & retention |
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Applied Machine Learning for Business Optimization
 - AWS Cloud Tools for Analytics
@@ -54,7 +57,7 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 
 ---
 
-## 🔧 Languages and Tools
+## Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -69,9 +72,9 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 </p>
 
 ---
-## 📜 Certifications in Analytics, Process Improvement & Business Strategy
+## Certifications in Analytics, Process Improvement & Business Strategy
 
-### 🟩 Lean Six Sigma
+### Lean Six Sigma
 **Lean Six Sigma White Belt Certification**  
 *Issued by:* Lean Six Sigma Certification Institute  
 *Date:* May 28, 2025  
@@ -79,7 +82,7 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 
 ---
 
-### 📊 Analytics & Business Intelligence
+### Analytics & Business Intelligence
 **W. P. Carey Certificate in Business Analytics (BA)**  
 *Issued by:* W. P. Carey School of Business, Arizona State University  
 *Date:* July 2, 2024  
@@ -87,7 +90,7 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 
 ---
 
-### 🧠 Data-Driven Decision-Making & Visualization
+### Data-Driven Decision-Making & Visualization
 **Project Management Fundamentals for Business Operations**  
 *Issued by:* Siemens via Forage | *Date:* February 26, 2025  
 [🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YtWaumzWHmKiqP63y/zSefEeEKvojiQqiaH_YtWaumzWHmKiqP63y_4wedH2reA8dXmXFjS_1740599261710_completion_certificate.pdf)
@@ -106,13 +109,13 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 
 ---
 
-### 🔗 LinkedIn Certifications  
+### LinkedIn Certifications  
 [📎 View All on LinkedIn](https://www.linkedin.com/in/yashwanth-guruswamy/details/certifications/)
 
 
 ---
 
-## 🔗 Let’s Connect
+## Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yashwanthguruswamy/)
-- 📫 Email: yparashu@asu.edu
+- [LinkedIn](https://www.linkedin.com/in/yashwanthguruswamy/)
+- Email: yparashu@asu.edu
