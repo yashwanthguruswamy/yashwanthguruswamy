@@ -1,7 +1,7 @@
 <h1 align="center"> <strong style="font-size: 2em;">Yashwanth Parashuramadevarakote Guruswamy</strong></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashwanthguruswamy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/yashwanth-guruswamy/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:yparashu@asu.edu"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
