@@ -5,7 +5,7 @@
   <a href="mailto:yparashu@asu.edu"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
-<p align="center">🎓 Business Analytics Grad | 🧠 Data & Product Projects | 📍 Tempe, AZ</p>
+<p align="center">🎓 Data Engineer | 🧠 Data & Product Projects | 📍 Austin, Tx</p>
 <p align="center">🔍 I turn data into insights that drive strategy, product growth, and process improvement.</p>
 
 ---
@@ -107,10 +107,6 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 *Issued by:* PwC via Forage | *Date:* March 1, 2025  
 [🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_4wedH2reA8dXmXFjS_1740792644376_completion_certificate.pdf)
 
----
-
-### LinkedIn Certifications  
-[📎 View All on LinkedIn](https://www.linkedin.com/in/yashwanth-guruswamy/details/certifications/)
 
 
 ---
