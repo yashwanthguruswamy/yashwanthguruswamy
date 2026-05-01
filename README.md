@@ -113,5 +113,5 @@ Business Analytics • Dashboarding • KPI Reporting • Churn Modeling • NLP
 
 ## Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yashwanthguruswamy/)
+- [LinkedIn](https://www.linkedin.com/in/yashwanthpg/)
 - Email: yparashu@asu.edu
